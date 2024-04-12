@@ -4,6 +4,11 @@ Will post video when it's available.
 
 My other slides etc are cataloged in https://github.com/pvnovarese/talks
 
- See also my [LinkedIn](https://www.linkedin.com/in/novarese/) and [Mastodon](https://mas.to/@pvn) profiles.
+Anchore open source projects:
+* https://github.com/anchore/syft
+* https://github.com/anchore/grype 
+* https://github.com/anchore/grant 
+
+See also my [LinkedIn](https://www.linkedin.com/in/novarese/) and [Mastodon](https://mas.to/@pvn) profiles.
 
 This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International
