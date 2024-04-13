@@ -2,7 +2,9 @@ Slides etc for "The Legacy of Log4Shell" as presented at Texas Linux Fest, 2024-
 
 Will post video when it's available.
 
-[Slides](https://novarese.net/talks/2024-04_Legacy_of_Log4shell.pdf)
+The PDF in this repo will download but if you try to view it in-browser you may get some weird "Unable to render code block" error from GitHub. 🤷‍♂️
+
+If it really is messed up I also have the slides in my personal domain: https://novarese.net/talks/2024-04_Legacy_of_Log4shell.pdf
 
 My other slides etc are cataloged in https://github.com/pvnovarese/talks
 
