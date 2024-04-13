@@ -2,6 +2,8 @@ Slides etc for "The Legacy of Log4Shell" as presented at Texas Linux Fest, 2024-
 
 Will post video when it's available.
 
+[Slides](https://novarese.net/talks/2024-04_Legacy_of_Log4shell.pdf)
+
 My other slides etc are cataloged in https://github.com/pvnovarese/talks
 
 Anchore open source projects:
